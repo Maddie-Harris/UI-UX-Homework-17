@@ -12,10 +12,18 @@ margin-top: 225px;
 margin-left: 270px;
 }
 
+@font-face {
+  font-family: Moon Light;
+  src: url(Moon_Light.otf);
+}
+div {
+  font-family: Moon;
+}
+
 .h1 {
-font-family: Raleway;
-font-size: 63px;
-font-weight: Light;
+font-family: Moon Light;
+font-size: 53px;
+font-weight: light;
 line-height: 61px;
 letter-spacing: 0em;
 text-align: left;
@@ -115,4 +123,15 @@ left: 0%;
 right: 0%;
 top: 86.85%;
 bottom: 6.57%;
+}
+
+.heroImg {
+background-image: url("../Images/heroImage.png");
+background-repeat: no-repeat;
+width: 1060px;
+height: 750px;
+position: absolute;
+left: 1110px;
+top: 12.96%;
+bottom: 12.96%;
 }
