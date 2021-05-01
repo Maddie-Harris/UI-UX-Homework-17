@@ -21,9 +21,9 @@ div {
 }
 
 .h1 {
-font-family: Moon Light;
+font-family: Moon;
 font-size: 53px;
-font-weight: light;
+font-weight: normal;
 line-height: 61px;
 letter-spacing: 0em;
 text-align: left;
@@ -40,7 +40,7 @@ text-align: left;
 }
 
 h3 {
-font-family: Moon;
+font-family: "Moon Light";
 font-size: 40px;
 font-style: normal;
 font-weight: 300;
