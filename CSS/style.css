@@ -1,15 +1,5 @@
-.logo {
-background-image: url("../images/Logo.png");
-background-repeat: no-repeat;
-position: absolute;
-width: 260px;
-height: 260px;
-margin-left: 270px;
-margin-top: 225px;
-}
-
 .titleText {
-margin-left: 270px;
+margin-left: 120px;
 }
 
 @font-face {
@@ -18,15 +8,33 @@ margin-left: 270px;
 }
 div {
   font-family: Moon;
+  font-size: 33px;
 }
 
-.h1 {
+logo {
+  font-family: Moon;
+  font-size: 33px;
+}
+
+.logo {
+background-image: url("../images/Logo.png");
+background-repeat: no-repeat;
+position: absolute;
+width: 260px;
+height: 260px;
+margin-left: 120px;
+margin-top: 225px;
+}
+
+h1 {
 font-family: Moon;
 font-size: 53px;
 font-weight: normal;
-line-height: 61px;
 letter-spacing: 0em;
 text-align: left;
+position: absolute;
+margin-left: 120px;
+margin-top: 500px;
 }
 
 h2 {
@@ -37,6 +45,8 @@ font-weight: 275;
 line-height: 63px;
 letter-spacing: 0em;
 text-align: left;
+position: absolute;
+top: 56.33%;
 }
 
 h3 {
@@ -63,6 +73,8 @@ font-style: normal;
 font-weight: 275;
 font-size: 16px;
 line-height: 21px;
+position: absolute;
+top: 83.33%;
 }
 
 .sideNav {
