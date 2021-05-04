@@ -17,7 +17,7 @@ logo {
 }
 
 .logo {
-background-image: url("../images/Logo.png");
+background-image: url("../Images/Logo.png");
 background-repeat: no-repeat;
 position: absolute;
 width: 260px;
@@ -88,7 +88,7 @@ filter: drop-shadow(4px 0px 12px rgba(34, 52, 59, 0.25));
 }
 
 .menuIconOpen {
-background-image: url("../images/menuIconOpen.png");
+background-image: url("../Images/menuIconOpen.png");
 background-repeat: no-repeat;
 position: absolute;
 left: 0%;
@@ -98,7 +98,7 @@ bottom: 86.85%;
 }
 
 .menuIconEmail {
-background-image: url("../images/menuIconEmail.png");
+background-image: url("../Images/menuIconEmail.png");
 background-repeat: no-repeat;
 position: absolute;
 left: 0%;
@@ -108,7 +108,7 @@ bottom: 26.3%;
 }
 
 .menuIconLinkedin {
-background-image: url("../images/menuIconLinkedIn.png");
+background-image: url("../Images/menuIconLinkedIn.png");
 background-repeat: no-repeat;
 position: absolute;
 left: 0%;
@@ -118,7 +118,7 @@ bottom: 19.72%;
 }
 
 .menuIconBehance {
-background-image: url("../images/menuIconBehance.png");
+background-image: url("../Images/menuIconBehance.png");
 background-repeat: no-repeat;
 position: absolute;
 left: 0%;
@@ -128,7 +128,7 @@ bottom: 13.15%;
 }
 
 .menuIconPinterest {
-background-image: url("../images/menuIconPinterest.png");
+background-image: url("../Images/menuIconPinterest.png");
 background-repeat: no-repeat;
 position: absolute;
 left: 0%;
